@@ -1,0 +1,9 @@
+dataset/
+env/
+eda/
+__pycache__/
+model/
+logs/
+test_results.txt
+test.py
+trash.py
